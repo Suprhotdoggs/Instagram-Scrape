@@ -1,1 +1,4 @@
 .env
+.node_modules
+.detailed_data.json
+.non_followers.txt
